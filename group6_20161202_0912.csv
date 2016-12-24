@@ -1,0 +1,341 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Owned By,Comment,Comment,Comment,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status
+134637841,View staff information,staff,1,14-Nov-16,25-Nov-16,feature,1,accepted,12-Nov-16,25-Nov-16,,hao guang,Manager is able to view staff information,https://www.pivotaltracker.com/story/show/134637841,hao guang,,"Commit by haoguang
+https://github.com/haoguang/process/commit/1db15df03e89e6a6f13b7109039f858ef344513f
+
+[#134637597 finished][#134637829 finished][#134646029 finished][#134637841 finished][#134637525 started][#134637541 started][#134637563 started][#134646047 started][#134637505 started]
+
+1_Developers: Hao Guang, Woon Tzer 
+2_Time: 16:30
+3_Use_case: Add new staff, Delete Staff
+
+1_Developers: Seong Wai, Wei Seng 
+2_Time: 16:40
+3_Use_case: Update staff information, View staff information (hao guang - Dec 23, 2016)","Commit by haoguang
+https://github.com/haoguang/process/commit/8690831a73bb9931dd8396b9a801e84d50004ea2
+
+[#134637597 accepted][#134637829 accepted][#134646029 accepted][#134637841 accepted][#134637525 accepted][#134637541 accepted][#134637563 accepted][#134646047 accepted][#134637505 accepted]
+
+1_Developers: Woon Tzer, Hao Guang
+2_Time: 17:00
+3_Use_case: Register a new member
+
+1_Developers: Wei Seng,Seong Wai
+2_Time: 13:30
+3_Use_case: Edit member information
+
+1_Developers: Wei Seng
+2_Time: 16:30
+3_Use_case: Delete Member
+
+1_Developers: Woon Tzer
+2_Time: 17:00
+3_Use_case: View member information
+
+1_Developers: Hao Guang,Seong Wai
+2_Time: 15:20
+3_Use_case: Add Product Record (hao guang - Dec 23, 2016)",,Create UI to list multiple staff information in brief,completed,Create UI to display staff information,completed,Code controller to retrieve data from DB,completed,Verify data retrieved,completed,Code search feature for staff,completed
+134637597,Add new staff,staff,1,14-Nov-16,25-Nov-16,feature,2,accepted,12-Nov-16,25-Nov-16,,hao guang,Manager should be able to insert new staff information ,https://www.pivotaltracker.com/story/show/134637597,hao guang,,"Commit by haoguang
+https://github.com/haoguang/process/commit/1db15df03e89e6a6f13b7109039f858ef344513f
+
+[#134637597 finished][#134637829 finished][#134646029 finished][#134637841 finished][#134637525 started][#134637541 started][#134637563 started][#134646047 started][#134637505 started]
+
+1_Developers: Hao Guang, Woon Tzer 
+2_Time: 16:30
+3_Use_case: Add new staff, Delete Staff
+
+1_Developers: Seong Wai, Wei Seng 
+2_Time: 16:40
+3_Use_case: Update staff information, View staff information (hao guang - Dec 23, 2016)","Commit by haoguang
+https://github.com/haoguang/process/commit/8690831a73bb9931dd8396b9a801e84d50004ea2
+
+[#134637597 accepted][#134637829 accepted][#134646029 accepted][#134637841 accepted][#134637525 accepted][#134637541 accepted][#134637563 accepted][#134646047 accepted][#134637505 accepted]
+
+1_Developers: Woon Tzer, Hao Guang
+2_Time: 17:00
+3_Use_case: Register a new member
+
+1_Developers: Wei Seng,Seong Wai
+2_Time: 13:30
+3_Use_case: Edit member information
+
+1_Developers: Wei Seng
+2_Time: 16:30
+3_Use_case: Delete Member
+
+1_Developers: Woon Tzer
+2_Time: 17:00
+3_Use_case: View member information
+
+1_Developers: Hao Guang,Seong Wai
+2_Time: 15:20
+3_Use_case: Add Product Record (hao guang - Dec 23, 2016)",,Create DB table for staff,completed,Design add staff UI,completed,Add data verification to UI,completed,Code controller to save data to DB,completed,,
+134637829,Update staff information,staff,1,14-Nov-16,25-Nov-16,feature,2,accepted,12-Nov-16,25-Nov-16,,hao guang,"As a manager, he should able to update the information about the staff when needed",https://www.pivotaltracker.com/story/show/134637829,hao guang,,"Commit by haoguang
+https://github.com/haoguang/process/commit/1613a5bf8f975763809ab8e5bdb08320d05ad769
+
+[#134637597 started][#134637829 started]
+
+1_Developers: Hao Guang, Woon Tzer
+2_Time: 10:26
+3_Use_case: Add new staff (hao guang - Dec 23, 2016)","Commit by haoguang
+https://github.com/haoguang/process/commit/1db15df03e89e6a6f13b7109039f858ef344513f
+
+[#134637597 finished][#134637829 finished][#134646029 finished][#134637841 finished][#134637525 started][#134637541 started][#134637563 started][#134646047 started][#134637505 started]
+
+1_Developers: Hao Guang, Woon Tzer 
+2_Time: 16:30
+3_Use_case: Add new staff, Delete Staff
+
+1_Developers: Seong Wai, Wei Seng 
+2_Time: 16:40
+3_Use_case: Update staff information, View staff information (hao guang - Dec 23, 2016)","Commit by haoguang
+https://github.com/haoguang/process/commit/8690831a73bb9931dd8396b9a801e84d50004ea2
+
+[#134637597 accepted][#134637829 accepted][#134646029 accepted][#134637841 accepted][#134637525 accepted][#134637541 accepted][#134637563 accepted][#134646047 accepted][#134637505 accepted]
+
+1_Developers: Woon Tzer, Hao Guang
+2_Time: 17:00
+3_Use_case: Register a new member
+
+1_Developers: Wei Seng,Seong Wai
+2_Time: 13:30
+3_Use_case: Edit member information
+
+1_Developers: Wei Seng
+2_Time: 16:30
+3_Use_case: Delete Member
+
+1_Developers: Woon Tzer
+2_Time: 17:00
+3_Use_case: View member information
+
+1_Developers: Hao Guang,Seong Wai
+2_Time: 15:20
+3_Use_case: Add Product Record (hao guang - Dec 23, 2016)",Create UI for update staff,completed,Add data verification to UI,completed,Code controller to retrieve data original from database,completed,Code controller to save new data to database,completed,,
+134646029,Delete staff,staff,1,14-Nov-16,25-Nov-16,feature,1,accepted,12-Nov-16,25-Nov-16,,lai woon tzer,Manager should be able to delete the old staff,https://www.pivotaltracker.com/story/show/134646029,hao guang,,"Commit by haoguang
+https://github.com/haoguang/process/commit/1db15df03e89e6a6f13b7109039f858ef344513f
+
+[#134637597 finished][#134637829 finished][#134646029 finished][#134637841 finished][#134637525 started][#134637541 started][#134637563 started][#134646047 started][#134637505 started]
+
+1_Developers: Hao Guang, Woon Tzer 
+2_Time: 16:30
+3_Use_case: Add new staff, Delete Staff
+
+1_Developers: Seong Wai, Wei Seng 
+2_Time: 16:40
+3_Use_case: Update staff information, View staff information (hao guang - Dec 23, 2016)","Commit by haoguang
+https://github.com/haoguang/process/commit/8690831a73bb9931dd8396b9a801e84d50004ea2
+
+[#134637597 accepted][#134637829 accepted][#134646029 accepted][#134637841 accepted][#134637525 accepted][#134637541 accepted][#134637563 accepted][#134646047 accepted][#134637505 accepted]
+
+1_Developers: Woon Tzer, Hao Guang
+2_Time: 17:00
+3_Use_case: Register a new member
+
+1_Developers: Wei Seng,Seong Wai
+2_Time: 13:30
+3_Use_case: Edit member information
+
+1_Developers: Wei Seng
+2_Time: 16:30
+3_Use_case: Delete Member
+
+1_Developers: Woon Tzer
+2_Time: 17:00
+3_Use_case: View member information
+
+1_Developers: Hao Guang,Seong Wai
+2_Time: 15:20
+3_Use_case: Add Product Record (hao guang - Dec 23, 2016)",,Add delete button to the display staff list UI,completed,Code controller to delete staff,completed,add confirmation message,completed,,,,
+134637525,Register as a new member,member,1,14-Nov-16,25-Nov-16,feature,1,accepted,12-Nov-16,25-Nov-16,,hao guang,Staff can help a new customer to  register as a member,https://www.pivotaltracker.com/story/show/134637525,Kok Seong Wai,,"Commit by haoguang
+https://github.com/haoguang/process/commit/1db15df03e89e6a6f13b7109039f858ef344513f
+
+[#134637597 finished][#134637829 finished][#134646029 finished][#134637841 finished][#134637525 started][#134637541 started][#134637563 started][#134646047 started][#134637505 started]
+
+1_Developers: Hao Guang, Woon Tzer 
+2_Time: 16:30
+3_Use_case: Add new staff, Delete Staff
+
+1_Developers: Seong Wai, Wei Seng 
+2_Time: 16:40
+3_Use_case: Update staff information, View staff information (hao guang - Dec 23, 2016)","Commit by haoguang
+https://github.com/haoguang/process/commit/8690831a73bb9931dd8396b9a801e84d50004ea2
+
+[#134637597 accepted][#134637829 accepted][#134646029 accepted][#134637841 accepted][#134637525 accepted][#134637541 accepted][#134637563 accepted][#134646047 accepted][#134637505 accepted]
+
+1_Developers: Woon Tzer, Hao Guang
+2_Time: 17:00
+3_Use_case: Register a new member
+
+1_Developers: Wei Seng,Seong Wai
+2_Time: 13:30
+3_Use_case: Edit member information
+
+1_Developers: Wei Seng
+2_Time: 16:30
+3_Use_case: Delete Member
+
+1_Developers: Woon Tzer
+2_Time: 17:00
+3_Use_case: View member information
+
+1_Developers: Hao Guang,Seong Wai
+2_Time: 15:20
+3_Use_case: Add Product Record (hao guang - Dec 23, 2016)",,Create DB table for member,completed,Design add member UI,completed,Add data verification for data entry,completed,code controller to handle data store into database,completed,,
+134637541,Edit member information,member,1,14-Nov-16,25-Nov-16,feature,1,accepted,12-Nov-16,25-Nov-16,,hao guang,the system is able to update member information time to time,https://www.pivotaltracker.com/story/show/134637541,hao guang,Kok Seong Wai,"Commit by haoguang
+https://github.com/haoguang/process/commit/1db15df03e89e6a6f13b7109039f858ef344513f
+
+[#134637597 finished][#134637829 finished][#134646029 finished][#134637841 finished][#134637525 started][#134637541 started][#134637563 started][#134646047 started][#134637505 started]
+
+1_Developers: Hao Guang, Woon Tzer 
+2_Time: 16:30
+3_Use_case: Add new staff, Delete Staff
+
+1_Developers: Seong Wai, Wei Seng 
+2_Time: 16:40
+3_Use_case: Update staff information, View staff information (hao guang - Dec 23, 2016)","Commit by haoguang
+https://github.com/haoguang/process/commit/8690831a73bb9931dd8396b9a801e84d50004ea2
+
+[#134637597 accepted][#134637829 accepted][#134646029 accepted][#134637841 accepted][#134637525 accepted][#134637541 accepted][#134637563 accepted][#134646047 accepted][#134637505 accepted]
+
+1_Developers: Woon Tzer, Hao Guang
+2_Time: 17:00
+3_Use_case: Register a new member
+
+1_Developers: Wei Seng,Seong Wai
+2_Time: 13:30
+3_Use_case: Edit member information
+
+1_Developers: Wei Seng
+2_Time: 16:30
+3_Use_case: Delete Member
+
+1_Developers: Woon Tzer
+2_Time: 17:00
+3_Use_case: View member information
+
+1_Developers: Hao Guang,Seong Wai
+2_Time: 15:20
+3_Use_case: Add Product Record (hao guang - Dec 23, 2016)",,Create UI to update member data,completed,add data verification to the ui input,completed,code the controller to retrieve original data form database,completed,code the controller to store data into the database.,completed,,
+134637563,View member information,member,1,14-Nov-16,25-Nov-16,feature,1,accepted,12-Nov-16,25-Nov-16,,hao guang,the waiters or manager able to view member information when needed,https://www.pivotaltracker.com/story/show/134637563,Kok Seong Wai,,"Commit by haoguang
+https://github.com/haoguang/process/commit/1db15df03e89e6a6f13b7109039f858ef344513f
+
+[#134637597 finished][#134637829 finished][#134646029 finished][#134637841 finished][#134637525 started][#134637541 started][#134637563 started][#134646047 started][#134637505 started]
+
+1_Developers: Hao Guang, Woon Tzer 
+2_Time: 16:30
+3_Use_case: Add new staff, Delete Staff
+
+1_Developers: Seong Wai, Wei Seng 
+2_Time: 16:40
+3_Use_case: Update staff information, View staff information (hao guang - Dec 23, 2016)","Commit by haoguang
+https://github.com/haoguang/process/commit/8690831a73bb9931dd8396b9a801e84d50004ea2
+
+[#134637597 accepted][#134637829 accepted][#134646029 accepted][#134637841 accepted][#134637525 accepted][#134637541 accepted][#134637563 accepted][#134646047 accepted][#134637505 accepted]
+
+1_Developers: Woon Tzer, Hao Guang
+2_Time: 17:00
+3_Use_case: Register a new member
+
+1_Developers: Wei Seng,Seong Wai
+2_Time: 13:30
+3_Use_case: Edit member information
+
+1_Developers: Wei Seng
+2_Time: 16:30
+3_Use_case: Delete Member
+
+1_Developers: Woon Tzer
+2_Time: 17:00
+3_Use_case: View member information
+
+1_Developers: Hao Guang,Seong Wai
+2_Time: 15:20
+3_Use_case: Add Product Record (hao guang - Dec 23, 2016)",,Create UI to enter member id and display member information,completed,Code controller to retrieve data from database,completed,verify the data retrieved is correct,completed,,,,
+134646047,Delete member,member,1,14-Nov-16,25-Nov-16,feature,1,accepted,12-Nov-16,25-Nov-16,,Vincent,Higher Management should able delete member who is no longer available,https://www.pivotaltracker.com/story/show/134646047,Vincent,Kok Seong Wai,"Commit by haoguang
+https://github.com/haoguang/process/commit/1db15df03e89e6a6f13b7109039f858ef344513f
+
+[#134637597 finished][#134637829 finished][#134646029 finished][#134637841 finished][#134637525 started][#134637541 started][#134637563 started][#134646047 started][#134637505 started]
+
+1_Developers: Hao Guang, Woon Tzer 
+2_Time: 16:30
+3_Use_case: Add new staff, Delete Staff
+
+1_Developers: Seong Wai, Wei Seng 
+2_Time: 16:40
+3_Use_case: Update staff information, View staff information (hao guang - Dec 23, 2016)","Commit by haoguang
+https://github.com/haoguang/process/commit/8690831a73bb9931dd8396b9a801e84d50004ea2
+
+[#134637597 accepted][#134637829 accepted][#134646029 accepted][#134637841 accepted][#134637525 accepted][#134637541 accepted][#134637563 accepted][#134646047 accepted][#134637505 accepted]
+
+1_Developers: Woon Tzer, Hao Guang
+2_Time: 17:00
+3_Use_case: Register a new member
+
+1_Developers: Wei Seng,Seong Wai
+2_Time: 13:30
+3_Use_case: Edit member information
+
+1_Developers: Wei Seng
+2_Time: 16:30
+3_Use_case: Delete Member
+
+1_Developers: Woon Tzer
+2_Time: 17:00
+3_Use_case: View member information
+
+1_Developers: Hao Guang,Seong Wai
+2_Time: 15:20
+3_Use_case: Add Product Record (hao guang - Dec 23, 2016)",,Create UI to delete member,completed,code controller to update the member status,completed,,,,,,
+134637505,Add Product Record,product,1,14-Nov-16,25-Nov-16,feature,1,accepted,12-Nov-16,25-Nov-16,,Kok Seong Wai,"As a staff, I should be able to add product such as foods and drinks.",https://www.pivotaltracker.com/story/show/134637505,Kok Seong Wai,,"Commit by haoguang
+https://github.com/haoguang/process/commit/1db15df03e89e6a6f13b7109039f858ef344513f
+
+[#134637597 finished][#134637829 finished][#134646029 finished][#134637841 finished][#134637525 started][#134637541 started][#134637563 started][#134646047 started][#134637505 started]
+
+1_Developers: Hao Guang, Woon Tzer 
+2_Time: 16:30
+3_Use_case: Add new staff, Delete Staff
+
+1_Developers: Seong Wai, Wei Seng 
+2_Time: 16:40
+3_Use_case: Update staff information, View staff information (hao guang - Dec 23, 2016)","Commit by haoguang
+https://github.com/haoguang/process/commit/8690831a73bb9931dd8396b9a801e84d50004ea2
+
+[#134637597 accepted][#134637829 accepted][#134646029 accepted][#134637841 accepted][#134637525 accepted][#134637541 accepted][#134637563 accepted][#134646047 accepted][#134637505 accepted]
+
+1_Developers: Woon Tzer, Hao Guang
+2_Time: 17:00
+3_Use_case: Register a new member
+
+1_Developers: Wei Seng,Seong Wai
+2_Time: 13:30
+3_Use_case: Edit member information
+
+1_Developers: Wei Seng
+2_Time: 16:30
+3_Use_case: Delete Member
+
+1_Developers: Woon Tzer
+2_Time: 17:00
+3_Use_case: View member information
+
+1_Developers: Hao Guang,Seong Wai
+2_Time: 15:20
+3_Use_case: Add Product Record (hao guang - Dec 23, 2016)",,Create DB table for product,completed,Design add product UI and data verification,completed,code controller to save data to DB,completed,,,,
+134637523,Update Product Record,product,2,28-Nov-16,9-Dec-17,feature,2,finished,12-Nov-16,,,Kok Seong Wai,"As a staff, I should be able to update product record such as quantity, status, and etc.",https://www.pivotaltracker.com/story/show/134637523,Kok Seong Wai,,,,,Create UI for update product record and data verification,completed,Code controller to retrieve data original form database,completed,code controller to save new data to database,completed,,,,
+134637557,View Product Record,product,2,28-Nov-16,9-Dec-17,feature,1,finished,12-Nov-16,,,Kok Seong Wai,"As a staff, I should be able to view the product details.",https://www.pivotaltracker.com/story/show/134637557,Kok Seong Wai,,,,,Create UI to list multiple product information in brief,completed,Create UI to display product information,completed,Code controller to retrieve data from DB,completed,Verify data retrieved,completed,code search feature for product search,completed
+134637529,Delete Product Record,product,2,28-Nov-16,9-Dec-17,feature,1,finished,12-Nov-16,,,Kok Seong Wai,"As a staff, I should be able to delete unwanted product.",https://www.pivotaltracker.com/story/show/134637529,Kok Seong Wai,,,,,Add delete button to the display product list UI,completed,Code controller to delete product,completed,Add confirmation message,completed,,,,
+136614299,View Credit List,order,2,28-Nov-16,9-Dec-17,feature,2,finished,12-Nov-16,,,Vincent,"As a customer, I would like to view the food and price on a list.",https://www.pivotaltracker.com/story/show/136614299,Kok Seong Wai,,,,,Create UI for view menu credit list.,completed,Code controller to retrieve all the data from database.,completed,Code controller to search particular data.,completed,Verify the data whether retrieve correctly.,completed,,
+136615251,Add Table,table,2,28-Nov-16,9-Dec-17,feature,1,started,12-Nov-16,,,Kok Seong Wai,"As a manager, I can add table.",https://www.pivotaltracker.com/story/show/136615251,,,,,,Create database for table.,not completed,Create UI for add table.,not completed,Code controller to store data into database.,not completed,Verify the data whether stored in the database.,not completed,,
+136615291,Update Table,table,2,28-Nov-16,9-Dec-17,feature,2,started,12-Nov-16,,,Kok Seong Wai,"As a manager, I can update the table status such as unavailable and available.",https://www.pivotaltracker.com/story/show/136615291,,,,,,Create UI for update table.,not completed,Code controller to retrieve the data from database and store latest data into database.,not completed,Verify the data whether had updated.,not completed,,,,
+136615341,Delete Table,table,2,28-Nov-16,9-Dec-17,feature,1,started,12-Nov-16,,,Kok Seong Wai,"As a manager, I can delete the table.",https://www.pivotaltracker.com/story/show/136615341,,,,,,Create UI for delete table.,not completed,Code controller to delete the data from the database.,not completed,Verify the data whether deleted or not.,not completed,,,,
+136615391,View Table,table,2,28-Nov-16,9-Dec-17,feature,2,started,12-Nov-16,,,Kok Seong Wai,"As a manager, I can view all the table record.",https://www.pivotaltracker.com/story/show/136615391,,,,,,Create UI for view table.,not completed,Code controller to retrieve all the data from the database.,not completed,Code for search particular data.,not completed,Verify the data whether is correct or not.,not completed,,
+134637443,Add Order Record,order,2,28-Nov-16,9-Dec-17,feature,1,started,12-Nov-16,,,Kok Seong Wai,"As a customer, I should able to order foods and drinks.",https://www.pivotaltracker.com/story/show/134637443,,,,,,Create database for order.,not completed,Create UI for add order and add validation for input format.,not completed,Code controller to save data into database.,not completed,,,,
+134637477,View Order Record,order,3,12-Dec-17,23-Dec-17,feature,1,unstarted,12-Nov-16,,,Kok Seong Wai,"As a customer, I should able to view what I have just ordered.",https://www.pivotaltracker.com/story/show/134637477,,,,,,Design Order List View,not completed,Code the controller to retrieve order,not completed,Verify and test the information retrieved,not completed,,,,
+134637499,Update Order Record,order,3,12-Dec-17,23-Dec-17,feature,2,unstarted,12-Nov-16,,,hao guang,"As a staff, I should able update the information of an order which is already placed",https://www.pivotaltracker.com/story/show/134637499,,,,,,Design addition frame to handle edit order,not completed,code controller to retrieve and create addition frame to update order record,not completed,Code controller to save edited data to the database,not completed,Check if the record is updated correctly,not completed,,
+134637481,Delete Order Record,order,3,12-Dec-17,23-Dec-17,feature,1,unstarted,12-Nov-16,,,Kok Seong Wai,"As a customer, I should able to remove unwanted order.",https://www.pivotaltracker.com/story/show/134637481,,,,,,Code the controller to delete the order from the order list,not completed,add confirm message before the order is deleted,not completed,,,,,,
+134637577,Add Payment Record,payment,3,12-Dec-17,23-Dec-17,feature,2,unstarted,12-Nov-16,,,Kok Seong Wai,"As a staff, I should be able to add payment into the system.",https://www.pivotaltracker.com/story/show/134637577,,,,,,Design add payment UI,not completed,Code controller to retrieve payment information from order list,not completed,Code controller to calculate the total payment,not completed,Code controller to update the payment detail into the database,not completed,,
+134645479,Pay through credit card,payment,3,12-Dec-17,23-Dec-17,feature,2,unstarted,12-Nov-16,,,hao guang,"As a casher, I should be able to receive credit card payment",https://www.pivotaltracker.com/story/show/134645479,,,,,,Add credit card panel into payment ui,not completed,code controller to retrieve the credit card information and update to database,not completed,,,,,,
+134645357,Payment through cash,payment,3,12-Dec-17,23-Dec-17,feature,1,unstarted,12-Nov-16,,,hao guang,"As a casher, I should able to receive cash when the customer pay their bill",https://www.pivotaltracker.com/story/show/134645357,,,,,,Add cash payment panel to payment UI,not completed,Code controller to retrieve the information from the panel and calculate the changes,not completed,,,,,,
+134646861,Generate Receipt,payment,3,12-Dec-17,23-Dec-17,feature,1,unstarted,12-Nov-16,,,Vincent,System should allow manager to generate receipt to customer,https://www.pivotaltracker.com/story/show/134646861,Vincent,Kok Seong Wai,,,,Add generate receipt button to the payment UI,not completed,Code controller to print out the recipe,not completed,,,,,,
+134647039,Payment monthly report,payment,3,12-Dec-17,23-Dec-17,feature,1,unstarted,12-Nov-16,,,lai woon tzer,"As a Manager, I will be able to check monthly report of payment",https://www.pivotaltracker.com/story/show/134647039,Kok Seong Wai,,,,,Design payment monthly report UI,not completed,Create controller to retrieve relevant information from database,not completed,,,,,,
+134647031,payment Yearly report,payment,3,12-Dec-17,23-Dec-17,feature,1,unstarted,12-Nov-16,,,lai woon tzer,"As a Manager, I will able to check the yearly report of payment",https://www.pivotaltracker.com/story/show/134647031,Kok Seong Wai,,,,,Design payment yearly report UI,not completed,Create controller to retrieve information from database,not completed,,,,,,
